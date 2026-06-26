@@ -1,5 +1,28 @@
-# 💫 About Me:
-# Hi, I'm Saicharan 👋<br><br>💻 Python Developer | AI Enthusiast | Data Analytics<br><br>I'm passionate about building intelligent software using Python, Machine Learning, and Data Analytics. I enjoy developing AI-powered applications, automation tools, and data-driven solutions while continuously learning new technologies.<br><br>## 🚀 Tech Stack<br>- Python<br>- SQL<br>- Machine Learning<br>- Git & GitHub<br>- Data Analytics<br>- Arduino & IoT<br><br>## 🌱 Currently Learning<br>- Deep Learning<br>- Generative AI<br>- Advanced Data Science<br><br>## 📫 Let's Connect<br>Always open to collaborating on AI, Python, and open-source projects.
+**💫 About Me**
+
+Hi, I'm **Saicharan** 👋
+
+💻 **Python Developer | AI Enthusiast | Data Analytics**
+
+I'm passionate about building intelligent software using Python, Machine Learning, and Data Analytics. I enjoy developing AI-powered applications, automation tools, and data-driven solutions while continuously learning new technologies.
+
+**🚀 Tech Stack**
+
+* Python
+* SQL
+* Machine Learning
+* Git & GitHub
+* Data Analytics
+* Arduino & IoT
+
+**🌱 Currently Learning**
+
+* Deep Learning
+* Generative AI
+* Advanced Data Science
+
+**📫 Let's Connect**
+Always open to collaborating on AI, Python, and open-source projects.
 
 
 ## 🌐 Socials:
